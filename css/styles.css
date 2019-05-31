@@ -1,6 +1,8 @@
 body {
 background-image:linear-gradient(#ffddcc , #ff99bb);
 background-size: cover;
+margin: 20px;
+padding:10px;
 }
 
 h1 {
@@ -12,10 +14,11 @@ p {
 }
 
 .intro {
-  margin: 15px;
   border: 2px white;
   padding: 80px;
   font-size: 18px;
+  border: 3px solid white;
+  display: block;
 }
 
 #intro-title {
@@ -25,10 +28,9 @@ p {
   font-weight: bold;
 }
 #igloo {
-  width: 15%;
+  width: 20%;
   height: auto;
   float: right;
-  display: block;
   padding-left: 60px;
 }
 
@@ -40,11 +42,12 @@ p {
   color: #ffa31a;
 }
 .panel-body {
-  color: blue;
+  color: black;
 }
 
 .jumbotron {
   font-family: monaco, monospace;
+  color: #ffa31a;
   background-image: url("");
   width: cover;
   repeat: none;s
