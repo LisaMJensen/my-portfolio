@@ -4,28 +4,49 @@ background-size: cover;
 }
 
 h1 {
-  color: red;
+
 }
 
 p {
   font-family: arial;
 }
 
-.intro-title {
+.intro {
+  margin: 15px;
+  border: 2px white;
+  padding: 80px;
+  font-size: 18px;
+}
+
+#intro-title {
   color: #ffa31a;
+  font-size: 60px;
   font-family: monaco, monospace;
+  font-weight: bold;
 }
 #igloo {
   width: 15%;
   height: auto;
   float: right;
+  display: block;
+  padding-left: 60px;
 }
 
+.panel {
+  width: 600px;
+}
+
+.panel-heading {
+  color: #ffa31a;
+}
 .panel-body {
   color: blue;
 }
 
 .jumbotron {
   font-family: monaco, monospace;
-  
+  background-image: url("");
+  width: cover;
+  repeat: none;s
+
 }
