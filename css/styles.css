@@ -32,6 +32,7 @@ p {
   font-size: 16px;
   text-align: left;
   float: left;
+  margin: 10px;
 }
 #igloo {
   width: 75%;
@@ -39,8 +40,12 @@ p {
   float: right;
 }
 
+.fun-facts {
+  margin: 10px;
+}
+
 .panel {
-  width: 600px;
+  width: 800px;
   float: right;
 }
 
@@ -54,8 +59,7 @@ p {
 .jumbotron {
   font-family: monaco, monospace;
   color: #ffa31a;
-  background-image: url("");
+  
   width: cover;
-  repeat: none;
 
 }
