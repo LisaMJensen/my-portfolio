@@ -1,7 +1,16 @@
 body {
-background-color: #ffddcc , #ff99bb;
+background-image:linear-gradient(#ffddcc , #ff99bb);
 }
 
 h1 {
   color: red;
+}
+
+p {
+  font-family: arial;
+}
+
+.intro {
+  color: #ffa31a;
+  font-family: monaco, monospace;
 }
