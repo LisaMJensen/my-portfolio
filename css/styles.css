@@ -30,6 +30,7 @@ p {
 ul {
   font-size: 14px;
   list-style-type: circle;
+  font-family: arial;
 }
 
 .intro {
@@ -93,6 +94,12 @@ ul {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.skills-and-hobbies {
+  margin: 10px;
+  padding-top: 10px;
+  padding-bottom: 30px;
 }
 
 .panel {
