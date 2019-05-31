@@ -14,3 +14,7 @@ p {
   color: #ffa31a;
   font-family: monaco, monospace;
 }
+
+.panel-body {
+  color: blue;
+}
