@@ -6,7 +6,9 @@ padding:10px;
 }
 
 h1 {
-
+  color: #66cc00;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  font-family: monaco, monospace;
 }
 
 h2 {
@@ -27,6 +29,7 @@ p {
 
 ul {
   font-size: 14px;
+  list-style-type: circle;
 }
 
 .intro {
