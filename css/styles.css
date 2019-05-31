@@ -1,5 +1,6 @@
 body {
 background-image:linear-gradient(#ffddcc , #ff99bb);
+background-size: cover;
 }
 
 h1 {
@@ -10,11 +11,21 @@ p {
   font-family: arial;
 }
 
-.intro {
+.intro-title {
   color: #ffa31a;
   font-family: monaco, monospace;
+}
+#igloo {
+  width: 15%;
+  height: auto;
+  float: right;
 }
 
 .panel-body {
   color: blue;
+}
+
+.jumbotron {
+  font-family: monaco, monospace;
+  
 }
