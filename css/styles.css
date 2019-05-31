@@ -8,13 +8,20 @@ padding:10px;
 h1 {
 
 }
-
+h5 {
+  text-align: justify;
+}
 p {
   font-family: arial;
 }
 
+ul {
+  font-size: 12px;
+}
+
 .intro {
-  padding: 20px;
+  padding-top: 10px;
+  margin: 10px;
   font-size: 18px;
   border: 3px solid white;
   display: block;
@@ -33,9 +40,11 @@ p {
   text-align: left;
   float: left;
   margin: 10px;
+  padding-top: 10px;
+  border: 3px solid white;
 }
 #igloo {
-  width: 75%;
+  width: 85%;
   height: auto;
   float: right;
   border: 3px solid white;
@@ -43,26 +52,31 @@ p {
 
 .fun-facts {
   margin: 10px;
+  padding-top: 10px;
+  padding-bottom: 20px;
 }
 
 #lenus {
- width: 55%;
- height: auto;
+  width: 55%;
+  eight: auto;
+  border: 3px solid white;
 }
 
 #bella {
   width: 55%;
   height: auto;
+  border: 3px solid white;
 }
 
 #gideon {
   width: 55%;
   height: auto;
+  border: 3px solid white;
 }
 
 .panel {
   width: 800px;
-  float: right;
+  float: center;
 }
 
 .panel-heading {
@@ -76,5 +90,12 @@ p {
   font-family: monaco, monospace;
   color: #ffa31a;
   width: cover;
+  background-color: #008ae6;
 
+}
+
+#bulba {
+  float: right;
+  width: 35%
+  height: auto;
 }
