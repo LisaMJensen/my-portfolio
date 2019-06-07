@@ -10,7 +10,7 @@ _This is a webpage created as a portfolio for Lisa Jensen, an aspiring developer
 
 ## Setup/Installation Requirements
 
-* _To view the webpage in a browser, use the GitHub Pages link._
+* _To view the webpage in a browser, use the following GitHub Pages link: https://lisamjensen.github.io/my-portfolio/ _
 * _To view the files and code, clone this repository to your local machine._
 
 ## Known Bugs
